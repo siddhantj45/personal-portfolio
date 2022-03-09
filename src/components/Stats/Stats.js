@@ -6,6 +6,8 @@ import { StatsData } from '../../constants/constants';
 
 const Stats = () => (
   <Section>
+  <SectionDivider />
+  <br />
     <SectionTitle>Stats</SectionTitle>
     <Boxes>
       {StatsData.map((card, index) => (
