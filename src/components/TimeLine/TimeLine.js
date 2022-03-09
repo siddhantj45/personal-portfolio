@@ -44,6 +44,8 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+    <SectionDivider />
+    <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I am a Software Engineer and a Motorsport Enthusiast who closely follows F1 & DTM. I also write articles on tech sometimes.
