@@ -14,7 +14,7 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Read my Blog</LinkTitle>
-          <LinkItem href="/blog">Siddhant's Blog</LinkItem>
+          <LinkItem href="https://blog.siddhant.work" target="_blank">Siddhant's Blog</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
