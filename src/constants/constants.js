@@ -21,7 +21,7 @@ export const TimeLineData = [
   { year: 2015, text: 'Started Techy Reviews, Website that covered tech updates', },
   { year: 2017, text: 'Started Techy Media, Providing Web Services', },
   { year: 2019, text: 'Consulting businesses on Social Media Front', },
-  { year: 2020, text: 'Co-Founded Procflo and scaled it to 5+ Organizations', },
+  { year: 2020, text: 'Led product development and scaled it to 5+ Organizations', },
   { year: 2022, text: 'Looking forward for the next opportunities', },
 ];
 
